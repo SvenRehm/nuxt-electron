@@ -35,4 +35,4 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 ## Credits
 
-- https://github.com/awohletz/electron-prisma-trpc-example
+-   https://github.com/awohletz/electron-prisma-trpc-example
